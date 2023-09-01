@@ -1,2 +1,2 @@
-# Python
-All the codes I did during practicing python are here.
+# Python Problem Solving Practice
+All the codes I did while practicing Python are here.
